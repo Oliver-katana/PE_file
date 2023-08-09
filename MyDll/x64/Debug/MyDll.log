@@ -1,0 +1,5 @@
+﻿  MathLibrary.cpp
+C:\Work\VisualStudio\MyDll\MathLibrary.cpp(10,5): warning C4273: Sum: несовместимое связывание dll
+C:\Work\VisualStudio\MyDll\MathLibrary.h(11,32): message : см. предыдущее определение "Sum"
+     Создается библиотека C:\Work\VisualStudio\MyDll\x64\Debug\MyDll.lib и объект C:\Work\VisualStudio\MyDll\x64\Debug\MyDll.exp
+  MyDll.vcxproj -> C:\Work\VisualStudio\MyDll\x64\Debug\MyDll.dll
